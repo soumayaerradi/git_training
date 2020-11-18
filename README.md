@@ -1,6 +1,7 @@
 # git_training
 
 
+- giomombelli
 Ciao son sul mio Branch!
 :) 
 ecco la mia modifica!! Sono mike N!
@@ -8,5 +9,3 @@ ecco la mia modifica!! Sono mike N!
 - Ennio
 -Dario Arici
 -Stefano
-
-
